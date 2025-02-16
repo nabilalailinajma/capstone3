@@ -25,7 +25,7 @@ Mengukur rata-rata kesalahan dalam bentuk persentase, yang cocok untuk membandin
 Menunjukkan seberapa baik model dapat menjelaskan variasi dalam data CLV, dengan nilai yang lebih tinggi mengindikasikan model yang lebih baik.
 
 **Model Website**
-
+capstone3-predictclv.streamlit.app
 
 **Power Point**
 
