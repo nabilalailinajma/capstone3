@@ -26,7 +26,7 @@ Menunjukkan seberapa baik model dapat menjelaskan variasi dalam data CLV, dengan
 
 **Model Website**
 
-capstone3-predictclv.streamlit.app
+https://capstone3-predictclv.streamlit.app/
 
 **Power Point**
 
