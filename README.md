@@ -30,4 +30,4 @@ https://capstone3-predictclv.streamlit.app/
 
 **Power Point**
 
-https://www.canva.com/design/DAGZEaKGDao/x85JWkqfCZJcRrxOyzERnw/edit?utm_content=DAGZEaKGDao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[https://www.canva.com/design/DAGZEaKGDao/x85JWkqfCZJcRrxOyzERnw/edit?utm_content=DAGZEaKGDao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGfDyz_tbE/tyLNJG74YFSq2_4HOh_VMw/edit?utm_content=DAGfDyz_tbE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
